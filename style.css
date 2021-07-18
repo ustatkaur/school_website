@@ -32,6 +32,14 @@
 #achievementsID{
     padding:15px;
 }
-.achieve_text span{
+.achieve_text span{    
     color:beige;
 }
+.alumni{
+    cursor:pointer;
+}
+.modal-body{
+    text-align:center;
+}
+
+
